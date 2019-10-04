@@ -1,0 +1,29 @@
+mongodb id password
+usama.m.saleem98@gmail.com	
+memon123 
+
+Heroku Id password
+usama.m.saleem98@gmail.com	
+Memon.123
+
+
+fetch krne ka tariqa
+
+  // Getques(){
+  //   fetch('https://localhost:3001/Ques/GetAllQues', {
+  //     method: 'GET',
+  //    }).then(res=>res.json())
+  //     .then(res => console.log(res))
+  //     this.setState({
+  //       questions:res.result
+  //     })
+  // }
+
+
+fetch krne ka tariqa
+
+  //   fetch(localhost:3001/Ques/GetAllQues', {
+  //     method: 'GET',
+  //    }).then(res=>res.json())
+  //     .then(res => console.log(res))
+  
